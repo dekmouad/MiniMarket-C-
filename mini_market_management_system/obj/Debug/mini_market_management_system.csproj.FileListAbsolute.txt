@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\bin\Debug\mini_market_management_system.exe.config
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\bin\Debug\mini_market_management_system.exe
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\bin\Debug\mini_market_management_system.pdb
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\bin\Debug\Guna.UI2.dll
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.LoginForm.resources
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.Properties.Resources.resources
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.csproj.CopyComplete
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.exe
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.pdb
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.SpalshForm.resources
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.CategoryForm.resources
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.ProductForm.resources
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.SellerForm.resources
+C:\Users\dell\source\repos\mini_market_management_system\mini_market_management_system\obj\Debug\mini_market_management_system.SellingForm.resources
